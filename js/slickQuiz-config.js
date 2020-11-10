@@ -4,8 +4,8 @@
 
 var quizJSON = {
     "info": {
-        "name":    "Ruby Truthiness Quiz!!",
-        "main":    "<p>Think you understand Ruby Truthiness? Let's find out with this little quiz!</p>",
+        "name":    "Truthiness Quiz!!",
+        "main":    "<p>Think you understand Truthiness? Let's find out with this little quiz!</p>",
         "results": "",
         "level1":  "Truthiness Expert",
         "level2":  "Truthiness Contender",
